@@ -1,0 +1,4 @@
+tqdm
+lxml
+pandas
+selenium
