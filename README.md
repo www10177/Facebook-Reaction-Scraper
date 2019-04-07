@@ -24,7 +24,7 @@ By default,it should be all right if you installed latest chrome ,however if the
 
 ## Usage 
 
-1. Make sure your chrome have already login Facebook,and do not remove facebook cookies (You need to login to see reaction list)
+1. Make sure your chrome have already login Facebook,do not remove facebook cookies (You need to login to see reaction list) , and turn your facebook display language to English
 2. Close all Chrome windows to avoid preventing selenium start 
 3. Put the link(in txt fromat) you want to scrap in `INPUT_DIR` 
    - you can split all post url in several txt file to estimate scraping speed(by tqdm) or to split output file
